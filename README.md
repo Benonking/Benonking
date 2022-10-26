@@ -1,16 +1,4 @@
 ### Hi there 👋, My Name is Benon
 #### Full stack software Engineer || Data analyst
-![Full stack software Engineer || Data analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: ML/ C / JS / HTML / CSS/PYTHON
-
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Benonking)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Benonking&show_icons=true)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/masereka-benon-147809144/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@benonking)  
-
+![Full stack software Engineer || Data analyst]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benonking)](https://github.com/anuraghazra/github-readme-stats)
