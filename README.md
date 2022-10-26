@@ -1,13 +1,12 @@
 ### Hi there 👋, My Name is Benon
 #### Full stack software Engineer || Data analyst
 ### Hi there 👋, my Name is Benon
-![](https://pbs.twimg.com/profile_banners/3399832468/1663970076/1080x360)
+#### An ambitious software engineer with strong command in C, python, JavaScript, HTML,CSS, SQL database, Constant learner and ability to adapt to new technologies. Possess strong communication and team management skills.  I also posses skills in data analytics like EDA, predictive modeling with all the common prediction models, data visualization and story telling 
 
-## Skills ans Experience
-* atom
-C/ JS/ PYTHON/ML/DATA ANALYTICS
+Skills: C/ JS/ PYTHON/ML/DATA ANALYTICS
 
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/masereka-benon-147809144/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/masereka-benon-147809144/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@benonking)  
+
