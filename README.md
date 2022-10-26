@@ -12,4 +12,5 @@ Skills: ML/ C / JS / HTML / CSS/PYTHON
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Benonking)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Benonking&show_icons=true)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/masereka-benon-147809144/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@benonking)  
 
