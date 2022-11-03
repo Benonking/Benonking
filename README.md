@@ -4,7 +4,7 @@
 
 Skills: C/ JS/ PYTHON/ML/DATA ANALYTICS/SQL/CSS/HTML
 
-- 🌱 I’m currently learning Studying ML and data analytics 
+- 🌱 I’m currently learning C, python and  ML and data analytics 
 - 💬 Ask me about Software Development and Data analytics 
 - 📫 How to reach me: benonkighoma@gmail.com 
 
