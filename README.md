@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Benon
 ### Software Developer || Data analyst
-##### An ambitious software engineer with strong command in C, python, JavaScript, HTML,CSS, SQL database, Constant learner and ability to adapt to new technologies. Possess strong communication and team management skills.  I also posses skills in data analytics like EDA, predictive modeling with all the common prediction models, data visualization and story telling 
+##### An ambitious software engineer with strong command in C, python, JavaScript, HTML,CSS, SQL database, A Constant learner and ability to adapt to new technologies. Possess strong communication and team management skills.  I also posses skills in data analytics like EDA, predictive modeling with all the common prediction models, data visualization and story telling 
 
 Skills: C/ JS/ PYTHON/ML/DATA ANALYTICS/SQL/CSS/HTML
 
