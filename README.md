@@ -1,7 +1,9 @@
 # Hi there 👋, I'm Benon
 ## Full stack Software Developer
-I'm a passionate junior backend developer with a strong foundation in Python and frameworks, Nodejs and SQL. I have experience working with RESTful APIs, relational databases, and server-side frameworks such as Flask and Express.
-I am always eager to learn new technologies and programming languages and stay up-to-date with the latest industry trends. I have a keen eye for detail, am committed to writing clean and maintainable code, and am constantly looking for ways to improve my coding practices.
+I'm a passionate junior backend developer with a strong foundation in Python, javascript and SQL. I have experience working with RESTful APIs, relational databases, and server-side frameworks such as Flask and Express.
+I am always eager to learn new technologies and stay up-to-date with the latest industry trends. I have a keen eye for detail, am committed to designing real world solutions to the worlds biggest probelms through clean and maintainable code.
+
+My next journey(2024) as Developer is to learn cloud computuing services
 
 **Want to know more about me** 👉 [**Checkout my portfolio**](https://)
 
